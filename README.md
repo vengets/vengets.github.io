@@ -1,46 +1,42 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Venkatesh Kamalapathy 
+>  vengets@gmail.com  |  +91 9972414997  | <a href="https://vengets.github.io"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg" width="22px"/></a> <a href="https://www.linkedin.com/in/vengets"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="22px"/></a>  <a href="https://www.hackerrank.com/vengets"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/hackerrank.svg" width="22px"/></a> <a href="https://vengets.medium.com"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/medium.svg" width="22px"/></a> <a href="https://stackoverflow.com/users/2783882"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/stackoverflow.svg" width="22px"/></a> <a href="https://www.npmjs.com/~vengets"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/npm.svg" width="22px"/></a> <a href="mail:vengets@gmail.com"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" width="22px"/></a> <a href="https://leetcode.com/vengets/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/leetcode.svg" width="22px"/></a>
 
-## Available Scripts
+A polyglot software developer with 8+ years of professional coding experience in various stacks/frameworks.
 
-In the project directory, you can run:
+## Experience
 
-### `npm start`
+### SENIOR SOFTWARE DEVELOPER, ANALOG DEVICES, BANGALORE  —10/2020-PRESENT
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Responsible for developing API for the medical product, in order to maintain the hardware and kits delivered to the patients. Using **AWS** extensively.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+### FULL STACK DEVELOPER, FINZY, BANGALORE — 12/2019-10/2020
 
-### `npm test`
+Owning a feature that allows Financial Advisors to invite Partners and Lenders. Followed Test Driven Development (**TDD**) with frequent **Pair Programming** that helps us to understand and implement accepted best practices.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
+### ENGINEER, SAMSUNG, CHENNAI — 08/2018-11/2019
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Responsible for building and maintaining micro-services for an e-commerce site. Owner of Carrier Service, which integrates with 3rd party SIM card providers and enables us to sell sim along with smartphones. Understand the infrastructure and improve build tools for enhancing test process effectiveness.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### SENIOR SOFTWARE DEVELOPER, ZILINGO, BANGALORE — 12/2017-07/2018
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Developed and owned cancellation reconciliation service from scratch to support partial cancellation. Tech Stack: Scala, Play framework, Postgres, Kafka.
 
-### `npm run eject`
+### SOFTWARE DEVELOPER, DNATA, BANGALORE — 10/2013-12/2017
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+Worked in hotels API and integrated 10+ suppliers to our system. Implemented highly configurable dynamic automated fraud-booking detection module.
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+### SOFTWARE DEVELOPMENT ENGINEER IN TEST, KALIDO, BANGALORE — 11/2012-10/2013
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+Developing and Maintaining the automation test framework. and writing tests which runs across every supported platform.
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
-## Learn More
+## Education
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+- Birla Institute of Technology And Science, Pilani — M.Tech Software Systems, 2016 - 2018 
+- Anna University, Chennai - MCA, 2009 - 2012
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## Skills
+
+Angular, React, Java, C#, NodeJS, TypeScript, Scala, Micro-services, Test Driven Development, Pair Programming, Unit Testing
