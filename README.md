@@ -2,7 +2,7 @@
 # Venkatesh Kamalapathy 
 >  vengets@gmail.com  |  +91 9972414997  | <a href="https://vengets.github.io"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg" width="22px"/></a> <a href="https://www.linkedin.com/in/vengets"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="22px"/></a>  <a href="https://www.hackerrank.com/vengets"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/hackerrank.svg" width="22px"/></a> <a href="https://vengets.medium.com"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/medium.svg" width="22px"/></a> <a href="https://stackoverflow.com/users/2783882"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/stackoverflow.svg" width="22px"/></a> <a href="https://www.npmjs.com/~vengets"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/npm.svg" width="22px"/></a> <a href="mail:vengets@gmail.com"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" width="22px"/></a> <a href="https://leetcode.com/vengets/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/leetcode.svg" width="22px"/></a>
 
-A polyglot software developer with 8+ years of professional coding experience in various stacks/frameworks.
+A polyglot software developer with 9+ years of professional coding experience across various stacks/frameworks.
 
 ## Experience
 
